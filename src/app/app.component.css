@@ -1,0 +1,7 @@
+.main {
+    background-color: #3e4451;
+}
+
+button:disabled {
+    cursor: not-allowed !important;
+}
